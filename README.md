@@ -1,5 +1,4 @@
 ### hello im authen
-## i dont really know how to code any actual real languages
 [![my cat](https://authenyo.xyz/images/catoncomputer.jpg)](https://authenyo.xyz/images/catoncomputer.jpg)
 that is my cat
 
